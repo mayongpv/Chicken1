@@ -1,4 +1,4 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -11,7 +11,7 @@ public class Move : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //WASD ¸¦ È­»ìÇ¥Å°·Î ¾¸
+        //WASD ë¥¼ í™”ì‚´í‘œí‚¤ë¡œ ì”€
         float moveX = 0;
         float moveZ = 0;
 
